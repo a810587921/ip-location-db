@@ -5016,7 +5016,9 @@
 2001:df0:b100::,2001:df0:b100:ffff:ffff:ffff:ffff:ffff,IN
 2001:df0:b140::,2001:df0:b140:ffff:ffff:ffff:ffff:ffff,PK
 2001:df0:b180::,2001:df0:b180:ffff:ffff:ffff:ffff:ffff,CN
+2001:df0:b1c0::,2001:df0:b1c0:ffff:ffff:ffff:ffff:ffff,IN
 2001:df0:b200::,2001:df0:b200:ffff:ffff:ffff:ffff:ffff,SG
+2001:df0:b240::,2001:df0:b240:ffff:ffff:ffff:ffff:ffff,IN
 2001:df0:b280::,2001:df0:b280:ffff:ffff:ffff:ffff:ffff,ID
 2001:df0:b300::,2001:df0:b300:ffff:ffff:ffff:ffff:ffff,ID
 2001:df0:b380::,2001:df0:b380:ffff:ffff:ffff:ffff:ffff,BD
@@ -27740,6 +27742,7 @@
 2803:c020::,2803:c020:ffff:ffff:ffff:ffff:ffff:ffff,AR
 2803:c060::,2803:c060:ffff:ffff:ffff:ffff:ffff:ffff,AR
 2803:c080::,2803:c080:ffff:ffff:ffff:ffff:ffff:ffff,AR
+2803:c090::,2803:c090:ffff:ffff:ffff:ffff:ffff:ffff,VE
 2803:c0c0::,2803:c0c0:ffff:ffff:ffff:ffff:ffff:ffff,AR
 2803:c0e0::,2803:c0e0:ffff:ffff:ffff:ffff:ffff:ffff,AR
 2803:c100::,2803:c100:ffff:ffff:ffff:ffff:ffff:ffff,PY
