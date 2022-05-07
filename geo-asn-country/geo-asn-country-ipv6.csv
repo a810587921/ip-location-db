@@ -989,6 +989,7 @@
 2001:678:bd0::,2001:678:bd0:ffff:ffff:ffff:ffff:ffff,IT
 2001:678:bd4::,2001:678:bd4:ffff:ffff:ffff:ffff:ffff,RU
 2001:678:bd8::,2001:678:bd8:ffff:ffff:ffff:ffff:ffff,DE
+2001:678:bdc::,2001:678:bdc:ffff:ffff:ffff:ffff:ffff,DE
 2001:678:be0::,2001:678:be0:ffff:ffff:ffff:ffff:ffff,CZ
 2001:678:be4::,2001:678:be4:ffff:ffff:ffff:ffff:ffff,NL
 2001:678:be8::,2001:678:be8:ffff:ffff:ffff:ffff:ffff,NL
@@ -3773,6 +3774,7 @@
 2001:7f8:128::,2001:7f8:128:ffff:ffff:ffff:ffff:ffff,UA
 2001:7f8:129::,2001:7f8:129:ffff:ffff:ffff:ffff:ffff,SA
 2001:7f8:12a::,2001:7f8:12a:ffff:ffff:ffff:ffff:ffff,NL
+2001:7f8:12b::,2001:7f8:12b:ffff:ffff:ffff:ffff:ffff,PS
 2001:7f9::,2001:7f9:0:ffff:ffff:ffff:ffff:ffff,PL
 2001:7f9:4::,2001:7f9:4:ffff:ffff:ffff:ffff:ffff,AL
 2001:7f9:8::,2001:7f9:8:ffff:ffff:ffff:ffff:ffff,AM
@@ -17083,6 +17085,7 @@
 2602:272::,2602:272:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:273::,2602:273:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:274::,2602:274:fff:ffff:ffff:ffff:ffff:ffff,US
+2602:275::,2602:275:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:300::,2602:3ff:ffff:ffff:ffff:ffff:ffff:ffff,US
 2602:800::,2602:800:f:ffff:ffff:ffff:ffff:ffff,US
 2602:800:1000::,2602:800:100f:ffff:ffff:ffff:ffff:ffff,US
@@ -17311,6 +17314,7 @@
 2602:80f:7000::,2602:80f:700f:ffff:ffff:ffff:ffff:ffff,US
 2602:80f:8000::,2602:80f:80ff:ffff:ffff:ffff:ffff:ffff,US
 2602:80f:9000::,2602:80f:900f:ffff:ffff:ffff:ffff:ffff,US
+2602:fb71::,2602:fb71:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fb72::,2602:fb72:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:fb74::,2602:fb74:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:fb75::,2602:fb75:ff:ffff:ffff:ffff:ffff:ffff,US
@@ -23445,6 +23449,7 @@
 2620:aa:c000::,2620:aa:c000:ffff:ffff:ffff:ffff:ffff,US
 2620:aa:e000::,2620:aa:e000:ffff:ffff:ffff:ffff:ffff,US
 2620:ab::,2620:ab:0:ffff:ffff:ffff:ffff:ffff,US
+2620:ab:2000::,2620:ab:2000:ffff:ffff:ffff:ffff:ffff,US
 2620:ab:4000::,2620:ab:4000:ffff:ffff:ffff:ffff:ffff,US
 2620:ab:8000::,2620:ab:8000:ffff:ffff:ffff:ffff:ffff,US
 2620:ab:c000::,2620:ab:c000:ffff:ffff:ffff:ffff:ffff,US
