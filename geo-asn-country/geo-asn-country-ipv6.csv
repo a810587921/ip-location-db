@@ -52673,9 +52673,7 @@
 2a0e:8f02:102f::,2a0e:8f02:102f:ffff:ffff:ffff:ffff:ffff,US
 2a0e:8f02:1030::,2a0e:8f02:103f:ffff:ffff:ffff:ffff:ffff,GB
 2a0e:8f02:1040::,2a0e:8f02:104f:ffff:ffff:ffff:ffff:ffff,BG
-2a0e:8f02:1050::,2a0e:8f02:107f:ffff:ffff:ffff:ffff:ffff,GB
-2a0e:8f02:1080::,2a0e:8f02:1080:ffff:ffff:ffff:ffff:ffff,BG
-2a0e:8f02:1081::,2a0e:8f02:10f2:ffff:ffff:ffff:ffff:ffff,GB
+2a0e:8f02:1050::,2a0e:8f02:10f2:ffff:ffff:ffff:ffff:ffff,GB
 2a0e:8f02:10f3::,2a0e:8f02:10f3:ffff:ffff:ffff:ffff:ffff,US
 2a0e:8f02:10f3::,2a0e:8f02:10f3:0:ffff:ffff:ffff:ffff,BG
 2a0e:8f02:10f3:1::,2a0e:8f02:10f3:1:ffff:ffff:ffff:ffff,CA
